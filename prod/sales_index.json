@@ -7,7 +7,7 @@
     "logo": "https://storage.arcdex.io/images/arc-logo.png",
     "favicon": "https://storage.arcdex.io/images/arc-favicon.png",
     "projectWebsite": "https://arcdex.io",
-    "saleDescription": "ARC Public Sale",
+    "saleDescription": "ARC Finance is an AUM-based liquidity as a service (LaaS) platform that allows users to achieve effective high-yield liquidity management through a combination of premium mining strategies. ARC Finance aims to provide proactive liquidity management services for different protocols and motivate users to engage in positive trading behaviour, increase capital efficiency and capture liquidity premium value.",
     "access": {
       "limitToRegions": ["US", "GB", "CA"]
     },
